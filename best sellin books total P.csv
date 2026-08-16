@@ -1,0 +1,299 @@
+id,Book name,Author,Rating,reviews count,form,price,Print Length,Publishing date,Genre,List Year
+#1,Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones,James Clear,4.8,145747,Hardcover,18.88,320,2018,Self-Improvement,2023
+#2,"Iron Flame (Standard Edition) (The Empyrean, 2)",Rebecca Yarros,4.7,395512,Hardcover,11.05,640,2023,Fiction & Action & Adventure,2023
+#3,Spare,Prince Harry  The Duke of Sussex,4.5,116101,Hardcover,11.99,416,2023,Biographies & Memoirs,2023
+#4,Fourth Wing,Rebecca Yarros,4.8,472618,Paperback,13.62,544,2023,Fiction & Action & Adventure,2023
+#5,The Woman in Me,Britney Spears,4.4,51520,Hardcover,11.37,288,2023,Biographies & Memoirs,2023
+#6,Lessons in Chemistry: A Novel,Bonnie Garmus,4.6,322650,Hardcover,13.94,400,2022,Fiction & Action & Adventure,2023
+#7,The 48 Laws of Power,Robert Greene,4.7,87375,Paperback,13.99,452,2000,Politics & Social Sciences,2023
+#8,"The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",Bessel van der Kolk M.D.,4.8,82564,Paperback,14.39,464,2015,Health & Fitness & Dieting,2023
+#9,It Starts with Us: A Novel (It Ends with Us),Colleen Hoover,4.5,228242,Paperback,1.88,336,2022,Fiction & Action & Adventure,2023
+#10,Outlive: The Science and Art of Longevity,Peter Attia MD,4.6,19946,Hardcover,18,496,2023,Health & Fitness & Dieting,2023
+#11,It Ends with Us: A Novel,Colleen Hoover,4.7,405311,Paperback,9.03,384,2016,Fiction & Action & Adventure,2023
+#12,The Housemaid,Freida McFadden,4.5,653111,Paperback,9.69,336,2022,Mystery & Thriller & Suspense,2023
+#13,The Very Hungry Caterpillar,Eric Carle,4.9,78436,Board book,5.75,26,1994,Reading & Writing,2023
+#14,Killers of the Flower Moon: The Osage Murders and the Birth of the FBI,David Grann,4.4,80996,Paperback,9.99,416,2018,Politics & Social Sciences,2023
+#15,Verity,Colleen Hoover,4.6,443390,Paperback,12.09,336,2021,Fiction & Action & Adventure,2023
+#16,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,4.6,270507,Paperback,6.91,400,2018,Fiction & Action & Adventure,2023
+#17,The Creative Act: A Way of Being,Rick Rubin,4.7,10805,Hardcover,16.99,432,2023,Health & Fitness & Dieting,2023
+#18,Taylor Swift: A Little Golden Book Biography,"Wendy Loggia, Elisa Chavarri",4.9,9344,Hardcover,4.35,24,2023,Arts & Music & Photography,2023
+#19,The Four Agreements: A Practical Guide to Personal Freedom,"Janet Mills, Don Miguel Ruiz",4.7,119661,Paperback,7.05,160,1997,Self-Improvement,2023
+#20,Demon Copperhead: A Novel,Barbara Kingsolver,4.6,146667,Hardcover,17.1,560,2022,Fiction & Action & Adventure,2023
+#21,A Court of Thorns and Roses,Sarah J. Maas,4.6,314472,Paperback,12.8,448,2020,Fiction & Action & Adventure,2023
+#22,Interesting Facts For Curious Minds,Jordan Moore,4.6,15400,Paperback,10.41,196,2022,Puzzles & Games,2023
+#23,No Brainer (Diary of a Wimpy Kid #18) (Volume 18),Jeff Kinney,4.7,13081,Hardcover,2.03,224,2023,Reading & Writing,2023
+#24,I Love You to the Moon and Back,Amelia Hepworth,4.9,80263,Board book,3.97,28,2015,Reading & Writing,2023
+#25,Dog Man: Twenty Thousand Fleas Under the Sea: A Graphic Novel (Dog Man #11): From the Creator of Captain Underpants,Dav Pilkey,4.8,11089,Hardcover,5.48,240,2023,Comics & Graphic Novels,2023
+#26,Things We Never Got Over (Knockemout),Lucy Score,4.5,232211,Paperback,9.77,570,2022,Fiction & Action & Adventure,2023
+#27,The Covenant of Water (Oprah's Book Club),Abraham Verghese,4.6,94536,Hardcover,17.96,736,2023,Fiction & Action & Adventure,2023
+#28,"Brown Bear, Brown Bear, What Do You See?","Bill Martin Jr. , Eric Carle",4.9,55794,Board book,4.82,24,1996,Reading & Writing,2023
+#29,Baking Yesteryear: The Best Recipes from the 1900s to the 1980s,B. Dylan Hollis,4.9,13217,Hardcover,16.78,256,2023,Cookbooks & Food,2023
+#30,I Love You Like No Otter: A Funny and Sweet Valentine's Day Board Book for Babies and Toddlers (Punderland),Rose Rossner,4.9,14622,Board book,5.37,24,2020,Reading & Writing,2023
+#31,"Friends, Lovers, and the Big Terrible Thing",Matthew Perry,4.5,60311,Hardcover,10.83,272,2022,Humor & Entertainment,2023
+#32,Rich Dad Poor Dad,Robert T. Kiyosaki,4.7,106198,Paperback,7.34,336,2022,Business & Money,2023
+#33,"The Wager: A Tale of Shipwreck, Mutiny and Murder",David Grann,4.4,39574,Hardcover,14.47,352,2023,Biographies & Memoirs,2023
+#34,"Oh, the Places You'll Go!",Dr. Seuss ,4.9,53602,Hardcover,8.64,56,1990,Reading & Writing,2023
+#35,My First Library: Boxset of 10 Board Books for Kids,Wonder House Books,4.6,88321,Board book,14.99,220,2018,Reading & Writing,2023
+#36,If He Had Been with Me,Laura Nowlin,4.2,60754,Paperback,6.88,400,2019,Fiction & Action & Adventure,2023
+#37,Goodnight Moon,"Margaret Wise Brown, Clement Hurd",4.9,31124,Board book,1.89,34,1991,Arts & Music & Photography,2023
+#38,"Tomorrow, and Tomorrow, and Tomorrow",Gabrielle Zevin,4.4,129310,Hardcover,13.28,416,2022,Fiction & Action & Adventure,2023
+#39,"World of Eric Carle, Around the Farm 30",PI Kids,4.8,26464,Hardcover,11.99,24,2013,Reading & Writing,2023
+#40,The Wonderful Things You Will Be,Emily Winfield Martin,4.9,32274,Hardcover,9.45,36,2015,Reading & Writing,2023
+#41,Fourth Wing (Special Edition),Rebecca Yarros,4.6,5028,Hardcover,26.91,528,2023,Fiction & Action & Adventure,2023
+#42,The Silent Patient,Alex Michaelides,4.4,398561,Paperback,2.39,368,2021,Mystery & Thriller & Suspense,2023
+#43,Remarkably Bright Creatures: A Read with Jenna Pick,Shelby Van Pelt,4.6,129211,Board book,14.53,368,2022,Mystery & Thriller & Suspense,2023
+#44,"The Psychology of Money: Timeless lessons on wealth, greed, and happiness",Morgan Housel,4.7,68563,Paperback,14.18,256,2020,Business & Money,2023
+#45,The Shadow Work Journal,Keila Shaheen,4.7,6331,Paperback,23.66,138,2021,Health & Fitness & Dieting,2023
+#46,Oath and Honor: A Memoir and a Warning,Liz Cheney,4.8,17084,Hardcover,14.78,384,2023,Biographies & Memoirs,2023
+#47,Where's Bluey?: A Search-and-Find Book,Penguin Young Readers Licenses,4.8,9137,Paperback,2.7,32,2022,Arts & Music & Photography,2023
+#48,Twisted Love,Ana Huang,4.2,142671,Paperback,9.99,352,2022,Fiction & Action & Adventure,2023
+#49,Icebreaker,Hannah Grace,4.3,113454,Paperback,9.4,448,2023,Fiction & Action & Adventure,2023
+#50,Things We Hide from the Light,Lucy Score,4.4,119095,Paperback,9.95,592,2023,Fiction & Action & Adventure,2023
+#51,Reminders of Him: A Novel,Colleen Hoover,4.7,347742,Paperback,9.03,335,2022,Fiction & Action & Adventure,2023
+#52,A Court of Mist and Fury,Sarah J. Maas,4.8,287325,Paperback,12.16,656,2020,Fiction & Action & Adventure,2023
+#53,The Legend of Zelda�: Tears of the Kingdom � The Complete Official Guide: Collector's Edition,Piggyback,4.8,7876,Hardcover,20.19,496,2023,Computers & Technology,2023
+#54,Elon Musk,Walter Isaacson,4.7,22689,Hardcover,19.93,688,2023,Biographies & Memoirs,2023
+#55,I Will Teach You to Be Rich: No Guilt. No Excuses. Just a 6-Week Program That Works (Second Edition),Ramit Sethi,4.6,23034,Paperback,10.17,352,2019,Business & Money,2023
+#56,Haunting Adeline,H. D. Carlton,4.4,163368,Paperback,17.18,627,2021,Mystery & Thriller & Suspense,2023
+#57,How to Catch a Dinosaur,Adam Wallace,4.8,18031,Hardcover,5.6,40,2019,Reading & Writing,2023
+#58,Ugly Love: A Novel,Colleen Hoover,4.6,165631,Paperback,8.91,336,2014,Fiction & Action & Adventure,2023
+#59,If Animals Kissed Good Night,Ann Whitford Paul,4.8,75734,Board book,4.23,34,2014,Reading & Writing,2023
+#60,Happy Place,Emily Henry,4.2,107168,Hardcover,12.29,400,2023,Fiction & Action & Adventure,2023
+#61,Twisted Games,Ana Huang,4.4,108327,Paperback,9.74,448,2022,Romance,2023
+#62,Chicka Chicka Boom Boom,"Bill Martin Jr.,  John Archambault , Lois Ehlert",4.9,41314,Board book,4.17,36,2012,Reading & Writing,2023
+#63,Hello Beautiful (Oprah's Book Club): A Novel,Ann Napolitano,4.4,109707,Hardcover,13.97,400,2023,Fiction & Action & Adventure,2023
+#64,The Democrat Party Hates America,Mark R. Levin,4.8,5751,Hardcover,13.47,400,2023,Politics & Social Sciences,2023
+#65,A Little Life,Hanya Yanagihara,4.5,86622,Paperback,9.25,832,2016,Fiction & Action & Adventure,2023
+#66,Meditations,Marcus Aurelius,4.8,18227,Paperback,8.18,272,2003,Politics & Social Sciences,2023
+#67,Holly,Stephen King,4.5,43046,Hardcover,13.98,464,2023,Mystery & Thriller & Suspense,2023
+#68,The Heaven & Earth Grocery Store,James McBride,4.4,73210,Hardcover,15.05,400,2023,Fiction & Action & Adventure,2023
+#69,Scholastic Flash Cards: Sight Words,Scholastic,4.8,32845,Cards,3.07,54,2018,Schools & Teaching,2023
+#70,Think and Grow Rich: The Landmark Bestseller Now Revised and Updated for the 21st Century (Think and Grow Rich Series),Napoleon Hill,4.8,29360,Paperback,8.24,320,2007,Business & Money,2023
+#71,Daisy Jones & The Six: Reese's Book Club: A Novel,Taylor Jenkins Reid,4.4,95715,Paperback,9.33,400,2020,Fiction & Action & Adventure,2023
+#72,A Court of Thorns and Roses Paperback Box Set (5 books),Sarah J. Maas,4.8,52380,Paperback,47.9,2896,2022,Fiction & Action & Adventure,2023
+#73,How to Win Friends & Influence People,Dale Carnegie ,4.7,109703,Paperback,15.44,320,1998,Self-Improvement,2023
+#74,The Complete Cookbook for Young Chefs,America�s Test Kitchen Kids,4.8,25279,Hardcover,9.4,208,2018,Cookbooks & Food,2023
+#75,"The Boy, the Mole, the Fox and the Horse: Inspiring Conversations on Hope, Love and Personal Growth",Charlie Mackesy,4.8,127734,Hardcover,17.62,128,2019,Comics & Graphic Novels,2023
+#76,Can't Hurt Me: Master Your Mind and Defy the Odds,David Goggins,4.8,104512,Paperback,24.99,364,2018,Self-Improvement,2023
+#77,The Complete Summer I Turned Pretty Trilogy (Boxed Set): The Summer I Turned Pretty - It's Not Summer Without You - We'll Always Have Summer,Jenny Han,4.8,14746,Paperback,24.62,928,2013,Fiction & Action & Adventure,2023
+#78,The Exchange: After The Firm (The Firm Series),John Grisham,4.1,72785,Hardcover,12.97,352,2023,Mystery & Thriller & Suspense,2023
+#79,Dragons Love Tacos,"Adam Rubin, Daniel Salmieri",4.8,20638,Hardcover,9.82,40,2012,Reading & Writing,2023
+#80,The Nightingale: A Novel,Kristin Hannah,4.7,396005,Paperback,13.48,608,2017,Fiction & Action & Adventure,2023
+#81,Harry Potter Paperback Box Set,"J. K. Rowling, Mary GrandPre?",4.9,65142,Paperback,52.62,4167,2009,Reading & Writing,2023
+#82,Adult Children of Emotionally Immature Parents,Lindsay C. Gibson,4.8,27090,Paperback,10.21,216,2015,Self-Improvement,2023
+#83,Stop Overthinking,Nick Trenton,4.7,14647,Paperback,10.2,200,2021,Business & Money,2023
+#84,A Court of Wings and Ruin,Sarah J. Maas,4.7,269981,Paperback,12.81,736,2020,Fiction & Action & Adventure,2023
+#85,The Subtle Art of Not Giving a F*ck,Mark Manson,4.5,158416,Hardcover,13.43,224,2016,Self-Improvement,2023
+#86,American Prometheus,"Kai Bird, Martin J. Sherwin",4.7,13739,Paperback,14.71,721,2006,Biographies & Memoirs,2023
+#87,Fast Like a Girl,Dr. Mindy Pelz,4.7,7992,Hardcover,12.81,352,2022,Health & Fitness & Dieting,2023
+#88,The Shadow Work Journal 2nd Edition,Keila Shaheen,4.6,3296,Paperback,21.74,227,2023,Self-Improvement,2023
+#89,The Alchemist,Paulo Coelho,4.6,123058,Paperback,5.03,208,2014,Biographies & Memoirs,2023
+#90,Love You Forever,"Robert Munsch, Sheila McGraw",4.9,67104,Paperback,4.98,32,1995,Reading & Writing,2023
+#91,How to Catch a Unicorn,"Adam Wallace, Andy Elkerton",4.8,37369,Hardcover,5.96,40,2019,Reading & Writing,2023
+#92,All the Light We Cannot See,Anthony Doerr,4.5,235857,Paperback,10.18,544,2017,Fiction & Action & Adventure,2023
+#93,The Ballad of Songbirds and Snakes,Suzanne Collins,4.5,105084,Paperback,10.83,528,2023,Fiction & Action & Adventure,2023
+#94,What to Expect When You're Expecting,Heidi Murkoff,4.8,30260,Paperback,9.43,656,2016,Health & Fitness & Dieting,2023
+#95,The Last Thing He Told Me,Laura Dave,4.3,168512,Paperback,7.16,336,2023,Fiction & Action & Adventure,2023
+#96,"From Crook to Cook: Platinum Recipes from Tha Boss Dogg's Kitchen (Snoop Dogg Cookbook, Celebrity Cookbook with Soul Food Recipes)",Snoop Dogg,4.8,40073,Hardcover,12,192,2018,Cookbooks & Food,2023
+#97,The 5 Love Languages,Gary Chapman,4.8,91554,Paperback,1.89,224,2024,Self-Improvement,2023
+#98,"My First Learn-to-Write Workbook: Practice for Kids with Pen Control, Line Tracing, Letters, and More!",Crystal Radke,4.8,89173,Paperback,5.26,84,2019,Reading & Writing,2023
+#99,How to Catch a Mermaid,"Adam Wallace, Andy Elkerton",4.8,34994,Hardcover,5.71,40,2018,Reading & Writing,2023
+#100,A Court of Frost and Starlight,Sarah J. Maas,4.2,181184,Paperback,12.74,272,2020,Fiction & Action & Adventure,2023
+#1,The Women: A Novel,Kristin Hannah,4.7,315946,Hardcover,20.5,480,2024,Fiction & Action & Adventure,2024
+#2,"Onyx Storm (Wing and Claw Collection) (The Empyrean, 3)",Rebecca Yarros,4.6,283105,Hardcover,8.03,566,2025,Fiction & Action & Adventure,2024
+#3,Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones,James Clear,4.8,145747,Hardcover,18.88,320,2018,Self-Improvement,2024
+#4,Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J. D. Vance,4.4,124288,Paperback,13.51,288,2018,History,2024
+#5,The Housemaid,Freida McFadden,4.5,653111,Paperback,9.69,336,2022,Mystery & Thriller & Suspense,2024
+#6,"Mom, I Want to Hear Your Story: A Mother�s Guided Journal To Share Her Life & Her Love (Hear Your Story Books)","Jeffrey Mason , Hear Your Story",4.7,20096,Paperback,11.95,108,2019,Parenting & Relationships,2024
+#7,"Dad, I Want to Hear Your Story: A Father�s Guided Journal To Share His Life & His Love (Hear Your Story Books)","Jeffrey Mason, Hear Your Story",4.7,13431,Paperback,8.79,110,2019,Arts & Music & Photography,2024
+#8,The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness,Jonathan Haidt,4.6,11570,Hardcover,14.01,400,2024,Parenting & Relationships,2024
+#9,It Ends with Us: A Novel,Colleen Hoover,4.7,405311,Paperback,9.03,384,2016,Fiction & Action & Adventure,2024
+#10,Good Energy: The Surprising Connection Between Metabolism and Limitless Health,Casey Means MD,4.6,5091,Hardcover,14.88,400,2024,Health & Fitness & Dieting,2024
+#11,The 48 Laws of Power,Robert Greene,4.7,87375,Paperback,13.99,452,2000,Politics & Social Sciences,2024
+#12,A Court of Thorns and Roses,Sarah J. Maas,4.6,314472,Paperback,12.8,448,2020,Fiction & Action & Adventure,2024
+#13,"Iron Flame (Standard Edition) (The Empyrean, 2)",Rebecca Yarros,4.7,395512,Hardcover,11.05,640,2023,Fiction & Action & Adventure,2024
+#14,Dog Man: The Scarlet Shedder: A Graphic Novel (Dog Man #12): From the Creator of Captain Underpants,Dav Pilkey,4.8,10416,Hardcover,8.38,224,2024,Comics & Graphic Novels,2024
+#15,The Housemaid's Secret,Freida McFadden,4.4,348084,Paperback,9.74,352,2023,Mystery & Thriller & Suspense,2024
+#16,Fourth Wing,Rebecca Yarros,4.8,472618,Paperback,13.62,544,2024,Fiction & Action & Adventure,2024
+#17,Melania,Melania Trump,4.6,12421,Hardcover,17,256,2024,Biographies & Memoirs,2024
+#18,"The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",Bessel van der Kolk M.D.,4.8,82564,Paperback,14.39,464,2015,Health & Fitness & Dieting,2024
+#19,It Starts with Us: A Novel (It Ends with Us),Colleen Hoover,4.5,228242,Paperback,1.88,336,2022,Fiction & Action & Adventure,2024
+#20,"How To Draw Everything: 300 Drawings of Cute Stuff, Animals, Food, Gifts, and other Amazing Things | Book For Kids",Emma Greene,4.7,6506,Paperback,10.9,110,2023,Arts & Music & Photography,2024
+#21,Hot Mess: A laugh-out-loud summer disaster from the #1 international bestselling Diary of a Wimpy Kid series (Book 19) (Volume 19),Jeff Kinney,4.7,5812,Hardcover,2.69,224,2024,Reading & Writing,2024
+#22,The Nightingale: A Novel,Kristin Hannah,4.7,395925,Paperback,13.48,608,2017,Fiction & Action & Adventure,2024
+#23,The Housemaid Is Watching,Freida McFadden,4.2,270851,Paperback,12.58,400,2024,Fiction & Action & Adventure,2024
+#24,"Little Corner: Coloring Book for Adults and Teens, Super Cute Designs of Cozy, Hygge Spaces for Relaxation (Cozy Spaces Coloring)",Coco Wyo,4.8,9897,Paperback,9.99,88,2024,Arts & Music & Photography,2024
+#25,"The Psychology of Money: Timeless lessons on wealth, greed, and happiness",Morgan Housel,4.7,68563,Paperback,14.18,256,2020,Business & Money,2024
+#26,I Love You to the Moon and Back,Amelia Hepworth,4.9,80263,Board book,3.97,28,2015,Reading & Writing,2024
+#27,A Court of Thorns and Roses Paperback Box Set (5 books),Sarah J. Maas,4.8,52380,Paperback,47.9,2896,2022,Fiction & Action & Adventure,2024
+#28,Dog Man: Big Jim Begins: A Graphic Novel (Dog Man #13): From the Creator of Captain Underpants,Dav Pilkey,4.8,7555,Hardcover,5.63,224,2024,Comics & Graphic Novels,2024
+#29,The Four Agreements: A Practical Guide to Personal Freedom,"Janet Mills, Don Miguel Ruiz",4.7,119661,Paperback,7.05,160,1997,Self-Improvement,2024
+#30,Cozy Friends: Coloring Book for Adults and Teens Featuring Super Cute Animal Characters with Easy and Simple Designs for Relaxation,Coco Wyo,4.8,10232,Paperback,9.99,88,2024,Arts & Music & Photography,2024
+#31,"World of Eric Carle, Around the Farm 30",PI Kids,4.8,26464,Hardcover,11.99,24,2013,Reading & Writing,2024
+#32,A Court of Mist and Fury,Sarah J. Maas,4.8,287325,Paperback,12.16,656,2020,Fiction & Action & Adventure,2024
+#33,"My First Learn-to-Write Workbook: Practice for Kids with Pen Control, Line Tracing, Letters, and More!",Crystal Radke,4.8,89173,Paperback,5.26,84,2019,Reading & Writing,2024
+#34,"Stress Relief: Coloring Book for Adults and Kids, Bold and Easy, Simple and Big Designs for Relaxation Featuring Animals, Landscape, Flowers, Patterns, Cute Things And Many More",Coco Wyo,4.8,6869,Paperback,9.99,110,2024,Arts & Music & Photography,2024
+#35,Don't Believe Everything You Think (Expanded Edition): Why Your Thinking Is The Beginning & End Of Suffering (Books By Joseph Nguyen),Joseph Nguyen,4.6,22994,Hardcover,12.54,192,2024,Self-Improvement,2024
+#36,"Brown Bear, Brown Bear, What Do You See?","Bill Martin Jr. , Eric Carle",4.9,55794,Board book,4.82,24,1996,Reading & Writing,2024
+#37,My First Library: Boxset of 10 Board Books for Kids,Wonder House Books,4.6,88321,Board book,14.99,220,2018,Reading & Writing,2024
+#38,The Book of Bill,Alex Hirsch,4.8,6058,Hardcover,14.06,208,2024,Reading & Writing,2024
+#39,The Bible in 52 Weeks: A Yearlong Bible Study for Women,Dr. Kimberly D. Moore,4.7,30755,Paperback,2.7,208,2020,Bible Study & Reference,2024
+#40,Verity,Colleen Hoover,4.6,443390,Paperback,12.09,336,2021,Fiction & Action & Adventure,2024
+#41,"Oh, the Places You'll Go!",Dr. Seuss ,4.9,53602,Hardcover,8.64,56,1990,Reading & Writing,2024
+#42,James (Pulitzer Prize Winner): A Novel,Percival Everett,4.6,95147,Hardcover,16.81,320,2024,Politics & Social Sciences,2024
+#43,I Love You Like No Otter: A Funny and Sweet Valentine's Day Board Book for Babies and Toddlers (Punderland),Rose Rossner,4.9,14622,Board book,5.37,24,2020,Reading & Writing,2024
+#44,A Court of Wings and Ruin,Sarah J. Maas,4.7,269981,Paperback,12.81,736,2020,Fiction & Action & Adventure,2024
+#45,Remarkably Bright Creatures: A Read with Jenna Pick,Shelby Van Pelt,4.6,129211,Board book,14.53,368,2022,Mystery & Thriller & Suspense,2024
+#46,The Very Hungry Caterpillar,Eric Carle,4.9,78436,Board book,5.75,26,1994,Reading & Writing,2024
+#47,Chicka Chicka Boom Boom,"Bill Martin Jr.,  John Archambault , Lois Ehlert",4.9,41314,Board book,4.17,36,2012,Reading & Writing,2024
+#48,Spooky Cutie: Coloring Book for Adults and Teens Featuring Adorable Creepy Creatures in Cozy Hygge Moments for Relaxation (Cozy Spaces Coloring),Coco Wyo,4.8,6443,Paperback,9.99,88,2024,Arts & Music & Photography,2024
+#49,Interesting Facts For Curious Minds,Jordan Moore,4.6,15400,Paperback,10.41,196,2022,Puzzles & Games,2024
+#50,"The New Menopause: Navigating Your Path Through Hormonal Change with Purpose, Power, and Facts",Mary Claire Haver MD,4.7,4255,Hardcover,19.58,320,2024,Health & Fitness & Dieting,2024
+#51,Never Lie,Freida McFadden,4.7,303204,Paperback,7.15,304,2023,Mystery & Thriller & Suspense,2024
+#52,Outlive: The Science and Art of Longevity,Peter Attia MD,4.6,19946,Hardcover,18,496,2023,Health & Fitness & Dieting,2024
+#53,Scholastic Flash Cards: Sight Words,Scholastic,4.8,32845,Cards,3.07,54,2018,Schools & Teaching,2024
+#54,The Big Book of Silly Jokes for Kids,Carole P. Roman,4.7,25729,Paperback,5.44,160,2019,Reading & Writing,2024
+#55,"The Demon of Unrest: A Saga of Hubris, Heartbreak, and Heroism at the Dawn of the Civil War",Erik Larson,4.5,15013,Hardcover,16.49,592,2024,Biographies & Memoirs,2024
+#56,Difficult Riddles For Smart Kids,M Prefontaine,4.6,34573,Paperback,9.99,79,2017,Arts & Music & Photography,2024
+#57,A Court of Frost and Starlight,Sarah J. Maas,4.2,181184,Paperback,12.74,272,2020,Fiction & Action & Adventure,2024
+#58,Holy Bible,Christian Art Publishers,4.9,15513,Imitation Leather,25.64,1400,2020,Bible Study & Reference,2024
+#59,The Lost Book of Herbal Remedies,"Claude Davis, Nicole Apelian",4.7,23656,Paperback,36,304,2019,Health & Fitness & Dieting,2024
+#60,Where's Bluey?: A Search-and-Find Book,Penguin Young Readers Licenses,4.8,9116,Paperback,2.7,32,2022,Arts & Music & Photography,2024
+#61,A Court of Silver Flames,Sarah J. Maas,4.8,246467,Paperback,9.98,784,2022,Fiction & Action & Adventure,2024
+#62,First Lie Wins,Ashley Elston,4.3,100479,Hardcover,3,352,2024,Mystery & Thriller & Suspense,2024
+#63,How to Win Friends & Influence People,Dale Carnegie ,4.7,109703,Paperback,15.44,320,1998,Self-Improvement,2024
+#64,The Complete Cookbook for Young Chefs,America�s Test Kitchen Kids,4.8,25279,Hardcover,9.4,208,2018,Cookbooks & Food,2024
+#65,The Teacher,Freida McFadden,4.3,243379,Paperback,9.53,400,2024,Mystery & Thriller & Suspense,2024
+#66,Just for the Summer,Abby Jimenez,4.6,145297,Paperback,2.7,432,2024,Fiction & Action & Adventure,2024
+#67,Fuzzy Hygge: Cute and Cozy Coloring Book,Vivi Tinta,4.8,5807,Paperback,9.63,88,2024,Arts & Music & Photography,2024
+#68,All the Colors of the Dark,Chris Whitaker,4.5,97696,Hardcover,15.79,608,2024,Mystery & Thriller & Suspense,2024
+#69,The Let Them Theory: A Life-Changing Tool That Millions of People Can't Stop Talking About,"Mel Robbins, Sawyer Robbins",4.6,36122,Hardcover,9.33,336,2024,Self-Improvement,2024
+#70,The Wonderful Things You Will Be,Emily Winfield Martin,4.9,32274,Hardcover,9.45,36,2015,Reading & Writing,2024
+#71,Murdle: Volume 1,G T Karber,4.8,5959,Paperback,12.84,386,2023,Puzzles & Games,2024
+#72,"Hello, Baby Animals","duopress labs, Julissa Mora",4.9,7914,Board book,1,20,2016,Reading & Writing,2024
+#73,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,4.6,270507,Paperback,6.91,400,2018,Fiction & Action & Adventure,2024
+#74,8 Little Planets,"Chris Ferrie, Lizzy Doyle",4.8,10381,Board book,5.18,18,2018,Reading & Writing,2024
+#75,"From Crook to Cook: Platinum Recipes from Tha Boss Dogg's Kitchen (Snoop Dogg Cookbook, Celebrity Cookbook with Soul Food Recipes)",Snoop Dogg,4.8,40073,Hardcover,12,192,2018,Cookbooks & Food,2024
+#76,What to Expect When You're Expecting,Heidi Murkoff,4.8,30260,Paperback,9.43,656,2016,Health & Fitness & Dieting,2024
+#77,Be Ready When the Luck Happens,Ina Garten,4.6,13716,Hardcover,13.73,320,2024,Biographies & Memoirs,2024
+#78,Happy Birthday to You!,Dr. Seuss,4.8,17396,Hardcover,9.49,64,1959,Reading & Writing,2024
+#79,If He Had Been with Me,Laura Nowlin,4.2,60754,Paperback,6.88,400,2019,Fiction & Action & Adventure,2024
+#80,"Dad, I Want to Hear Your Story: A Father�s Guided Journal To Share His Life & His Love (Hear Your Story Books)","Jeffrey Mason, Hear Your Story",4.7,13431,Paperback,8.79,110,2019,Arts & Music & Photography,2024
+#81,The Rainbow Fish,Marcus Pfister,4.8,8150,Board book,4.7,12,1999,Reading & Writing,2024
+#82,Wind and Truth: Book Five of the Stormlight Archive,Brandon Sanderson,4.7,31249,Hardcover,19.99,1344,2024,Fiction & Action & Adventure,2024
+#83,If Only I Had Told Her,Laura Nowlin,4.3,14292,Paperback,6.34,416,2024,Fiction & Action & Adventure,2024
+#84,Fahrenheit 451,Ray Bradbury,4.6,58611,Paperback,9.05,249,2012,Politics & Social Sciences,2024
+#85,1984,George Orwell,4.6,122245,Paperback,5.99,328,1961,Politics & Social Sciences,2024
+#86,The God of the Woods,Liz Moore,4.4,109729,Hardcover,15.35,496,2024,Fiction & Action & Adventure,2024
+#87,Haunting Adeline,H. D. Carlton,4.4,163368,Paperback,17.18,627,2021,Mystery & Thriller & Suspense,2024
+#88,The Hardest Hidden Pictures Book Ever,Highlights,4.7,8907,Paperback,6.7,144,2021,Arts & Music & Photography,2024
+#89,Bluey: Big Backyard: A Coloring Book,Penguin Young Readers Licenses,4.8,7381,Paperback,2.65,64,2021,Arts & Music & Photography,2024
+#90,"Mom, I Want to Hear Your Story: A Mother�s Guided Journal To Share Her Life & Her Love (Hear Your Story Books)","Jeffrey Mason , Hear Your Story",4.7,20096,Paperback,11.95,108,2019,Parenting & Relationships,2024
+#91,The Creative Act: A Way of Being,Rick Rubin,4.7,10805,Hardcover,16.99,432,2023,Health & Fitness & Dieting,2024
+#92,Taylor Swift: A Little Golden Book Biography,"Wendy Loggia, Elisa Chavarri",4.9,9344,Hardcover,4.35,24,2023,Arts & Music & Photography,2024
+#93,The Action Bible: God's Redemptive Story,Sergio Cariello,4.9,13299,Hardcover,24.34,832,2020,Bible Study & Reference,2024
+#94,Dragons Love Tacos,"Adam Rubin, Daniel Salmieri",4.8,20638,Hardcover,9.82,40,2012,Reading & Writing,2024
+#95,"The Book of Unusual Knowledge: Big Book of Fascinating Facts & Information | Hardcover Gift for Trivia Buffs, Curious Minds, Adults, Dad & Knowledge Seekers",Publications International Ltd.,4.6,22419,Hardcover,10.18,704,2012,Engineering,2024
+#96,The Great Alone,Kristin Hannah,4.6,197412,Paperback,10.45,576,2019,Fiction & Action & Adventure,2024
+#97,The Silent Patient,Alex Michaelides,4.4,398561,Paperback,2.39,368,2021,Mystery & Thriller & Suspense,2024
+#98,Throne of Glass,Sarah J. Maas,4.6,170525,Paperback,10.7,432,2023,Fiction & Action & Adventure,2024
+#99,The Lost Bookshop,Evie Woods,4.4,158268,Paperback,4.99,448,2023,Fiction & Action & Adventure,2024
+#100,The Heaven & Earth Grocery Store,James McBride,4.4,73210,Hardcover,15.05,400,2023,Fiction & Action & Adventure,2024
+#1,The Let Them Theory: A Life-Changing Tool That Millions of People Can't Stop Talking About,"Mel Robbins, Sawyer Robbins",4.6,36122,Hardcover,9.33,336,2024,Self-Improvement,2025
+#2,Sunrise on the Reaping (The Hunger Games),Suzanne Collins,4.7,85367,Hardcover,13.48,400,2025,Fiction & Action & Adventure,2025
+#3,Forgotten Home Apothecary : 250 Powerful Remedies at Your Fingertips,Dr. Nicole Apelian,4.7,14335,Paperback,37.01,288,2024,Health & Fitness & Dieting,2025
+#4,"How To Draw Everything: 300 Drawings of Cute Stuff, Animals, Food, Gifts, and other Amazing Things | Book For Kids",Emma Greene,4.7,6481,Paperback,10.9,110,2023,Arts & Music & Photography,2025
+#5,The Housemaid,Freida McFadden,4.5,653111,Paperback,9.69,336,2022,Mystery & Thriller & Suspense,2025
+#6,Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones,James Clear,4.8,145747,Hardcover,18.88,320,2018,Self-Improvement,2025
+#7,"World of Eric Carle, Around the Farm 30-Button Animal Sound Book - Great for First Words - PI Kids",PI Kids,4.8,26451,Hardcover,11.99,24,2013,Reading & Writing,2025
+#8,"My First Learn-to-Write Workbook: Practice for Kids with Pen Control, Line Tracing, Letters, and More!",Crystal Radke,4.8,89173,Paperback,5.26,84,2019,Reading & Writing,2025
+#9,Partypooper: A side-splitting birthday disaster from the #1 international bestselling Diary of a Wimpy Kid series (Book 20) (Volume 20),Jeff Kinney,4.7,5575,Hardcover,10.97,224,2025,Friendship & Social Skills & School Life,2025
+#10,Cozy Friends: Coloring Book for Adults and Teens Featuring Super Cute Animal Characters with Easy and Simple Designs for Relaxation,Coco Wyo,4.8,10232,Paperback,9.99,88,2024,Arts & Music & Photography,2025
+#11,"Stress Relief: Coloring Book for Adults and Kids, Bold and Easy, Simple and Big Designs for Relaxation Featuring Animals, Landscape, Flowers, Patterns, Cute Things And Many More",Coco Wyo,4.8,6869,Paperback,9.99,110,2024,Arts & Music & Photography,2025
+#12,The Frozen River: A GMA Book Club Pick: A Novel,Ariel Lawhon,4.6,101295,Paperback,11.99,448,2024,Fiction & Action & Adventure,2025
+#13,My First Library: Boxset of 10 Board Books for Kids,Wonder House Books,4.6,88292,Board book,14.99,220,2018,Reading & Writing,2025
+#14,The Nightingale: A Novel,Kristin Hannah,4.7,395774,Paperback,13.48,608,2017,Fiction & Action & Adventure,2025
+#15,I Love You to the Moon and Back,Amelia Hepworth,4.9,80263,Board book,3.97,28,2015,Reading & Writing,2025
+#16,"The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",Bessel van der Kolk M.D.,4.8,82564,Paperback,14.39,464,2015,Health & Fitness & Dieting,2025
+#17,The Very Hungry Caterpillar,Eric Carle,4.9,78436,Board book,5.75,26,1994,Reading & Writing,2025
+#18,"Onyx Storm (Wing and Claw Collection) (The Empyrean, 3)",Rebecca Yarros,4.6,283105,Hardcover,8.03,566,2025,Fiction & Action & Adventure,2025
+#19,The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness,Jonathan Haidt,4.6,11570,Hardcover,14.01,400,2024,Parenting & Relationships,2025
+#20,"Dad, I Want to Hear Your Story: A Father�s Guided Journal To Share His Life & His Love (Hear Your Story Books)","Jeffrey Mason, Hear Your Story",4.7,13431,Paperback,8.79,110,2019,Arts & Music & Photography,2025
+#21,"The Book of Unusual Knowledge: Big Book of Fascinating Facts & Information | Hardcover Gift for Trivia Buffs, Curious Minds, Adults, Dad & Knowledge Seekers",Publications International Ltd.,4.6,22419,Hardcover,10.18,704,2012,Engineering,2025
+#22,"Little Corner: Coloring Book for Adults and Teens, Super Cute Designs of Cozy, Hygge Spaces for Relaxation (Cozy Spaces Coloring)",Coco Wyo,4.8,9884,Paperback,9.99,88,2024,Arts & Music & Photography,2025
+#23,"The Psychology of Money: Timeless lessons on wealth, greed, and happiness",Morgan Housel,4.7,68532,Paperback,14.18,256,2020,Self-Improvement,2025
+#24,Dog Man: Big Jim Believes: A Graphic Novel (Dog Man #14): From the Creator of Captain Underpants,Dav Pilkey,4.7,2420,Hardcover,9.42,224,2025,Comics & Graphic Novels,2025
+#25,The Big Book of Silly Jokes for Kids,Carole P. Roman,4.7,25722,Paperback,5.44,160,2019,Reading & Writing,2025
+#26,The Secret of Secrets: A Novel (Robert Langdon),Dan Brown,4.4,49468,Hardcover,14,688,2025,Mystery & Thriller & Suspense,2025
+#27,Girl Moments: Coloring Book for Adults and Teens Featuring Cute Cozy Daily Activities for Relaxation (Cozy Spaces Coloring),Coco Wyo,4.8,8113,Paperback,9.99,88,2024,Arts & Music & Photography,2025
+#28,Don't Believe Everything You Think (Expanded Edition): Why Your Thinking Is The Beginning & End Of Suffering (Books By Joseph Nguyen),Joseph Nguyen,4.6,22994,Hardcover,12.54,192,2024,Self-Improvement,2025
+#29,The Housemaid's Secret,Freida McFadden,4.4,348084,Paperback,9.74,352,2023,Mystery & Thriller & Suspense,2025
+#30,I Love You Like No Otter: A Funny and Sweet Valentine's Day Board Book for Babies and Toddlers (Punderland),Rose Rossner,4.9,14622,Board book,5.37,24,2020,Reading & Writing,2025
+#31,The Rainbow Fish,Marcus Pfister,4.8,8150,Board book,4.7,12,1999,Reading & Writing,2025
+#32,How to Test Negative for Stupid: And Why Washington Never Will?A Senator's Funny and Perceptive Takedown of Washington Politics,John Kennedy,4.8,9378,Hardcover,20.98,224,2025,Politics & Social Sciences,2025
+#33,INNER EXCELLENCE: Train Your Mind for Extraordinary Performance and the Best Possible life,JIM MURPHY,4.7,3765,Paperback,17,360,2020,Health & Fitness & Dieting,2025
+#34,"Would You Rather Book For Kids - 300+ Hilarious, Silly, and Challenging Questions To Make You Laugh",Stephen J. Ellis,4.7,3004,Paperback,11.99,144,2021,Arts & Music & Photography,2025
+#35,"Oh, the Places You'll Go!",Dr. Seuss ,4.9,53602,Hardcover,8.64,56,1990,Reading & Writing,2025
+#36,"Mom, I Want to Hear Your Story: A Mother�s Guided Journal To Share Her Life & Her Love (Hear Your Story Books)","Jeffrey Mason , Hear Your Story",4.7,20096,Paperback,11.95,108,2019,Parenting & Relationships,2025
+#37,"Brown Bear, Brown Bear, What Do You See?","Bill Martin Jr. , Eric Carle",4.9,55794,Board book,4.82,24,1996,Reading & Writing,2025
+#38,Murdle: Volume 1,G T Karber,4.8,5959,Paperback,12.84,386,2023,Puzzles & Games,2025
+#39,Fahrenheit 451,Ray Bradbury,4.6,58611,Paperback,9.05,249,2012,Politics & Social Sciences,2025
+#40,Project Hail Mary: A Novel,Andy Weir,4.7,186767,Paperback,13.98,496,2022,Mystery & Thriller & Suspense,2025
+#41,The Bible in 52 Weeks: A Yearlong Bible Study for Women,Dr. Kimberly D. Moore,4.7,30755,Paperback,2.7,208,2020,Bible Study & Reference,2025
+#42,Scholastic Flash Cards: Sight Words,Scholastic,4.8,32845,Cards,3.07,54,2018,Schools & Teaching,2025
+#43,The Action Bible: God's Redemptive Story (Action Bible Series),Sergio Cariello,4.9,13285,Hardcover,24.36,832,2020,Bible Study & Reference,2025
+#44,The Women: A Novel,Kristin Hannah,4.7,315946,Hardcover,20.5,480,2024,Fiction & Action & Adventure,2025
+#45,"Stop, in the Name of God: Why Honoring the Sabbath Will Transform Your Life",Charlie Kirk,4.9,476,Hardcover,29.99,267,2025,Bible Study & Reference,2025
+#46,Broken Country (Reese's Book Club),Clare Leslie Hall,4.5,71453,Hardcover,15.43,320,2025,Fiction & Action & Adventure,2025
+#47,The Four Agreements: A Practical Guide to Personal Freedom,"Janet Mills, Don Miguel Ruiz",4.7,119661,Paperback,7.05,160,1997,Self-Improvement,2025
+#48,The Widow: A Novel,John Grisham,4.4,46020,Hardcover,13.87,416,2025,Mystery & Thriller & Suspense,2025
+#49,Large Print Easy Color & Frame - Calm (Stress Free Coloring Book),"New Seasons, Publications International Ltd.",4.7,6749,Spiral-bound,6.42,64,2020,Arts & Music & Photography,2025
+#50,The Screaming Goat (Book & Figure),Running Press,4.7,41584,Paperback,7.96,32,2016,Humor & Entertainment,2025
+#51,The Wedding People: A Novel,Alison Espach,4.3,147730,Hardcover,19.23,384,2024,Fiction & Action & Adventure,2025
+#52,Chicka Chicka Boom Boom,"Bill Martin Jr.,  John Archambault , Lois Ehlert",4.9,41314,Board book,4.17,36,2012,Reading & Writing,2025
+#53,The 48 Laws of Power,Robert Greene,4.7,87375,Paperback,13.99,452,2000,Politics & Social Sciences,2025
+#54,107 Days,Kamala Harris,4.6,7711,Hardcover,15.18,320,2025,Politics & Social Sciences,2025
+#55,"The Hardest Hidden Pictures Book Ever: Ultra-Challenging Brain Games for Kids Ages 8-12, Advanced Seek and Find Puzzles Book with Over 1,500 Hidden Objects to Find (Highlights Hidden Pictures)",Highlights,4.7,8896,Paperback,6.7,144,2021,Arts & Music & Photography,2025
+#56,Potty Time with Bean,"Ms. Rachel, Monique Dong",4.7,2668,Board book,8.77,32,2025,Schools & Teaching,2025
+#57,1984,George Orwell,4.6,122245,Paperback,5.99,328,1961,Politics & Social Sciences,2025
+#58,The Tenant,Freida McFadden,4.2,174300,Paperback,4.47,368,2025,Mystery & Thriller & Suspense,2025
+#59,The Housemaid Is Watching,Freida McFadden,4.2,270851,Paperback,12.58,400,2024,Fiction & Action & Adventure,2025
+#60,James (Pulitzer Prize Winner): A Novel,Percival Everett,4.6,95147,Hardcover,16.81,320,2024,Politics & Social Sciences,2025
+#61,Where's Spot?: A Lift-the-Flap Book,Eric Hill,4.8,35944,Board book,4.5,22,2003,Reading & Writing,2025
+#62,Outlive: The Science and Art of Longevity,Peter Attia MD,4.6,19946,Hardcover,18,496,2023,Health & Fitness & Dieting,2025
+#63,Animal Farm,George Orwell,4.6,92537,Paperback,6.49,140,2004,Politics & Social Sciences,2025
+#64,The Going To Bed Book,Sandra Boynton ,4.8,19562,Board book,3.86,16,1982,Reading & Writing,2025
+#65,"From Crook to Cook: Platinum Recipes from Tha Boss Dogg's Kitchen (Snoop Dogg Cookbook, Celebrity Cookbook with Soul Food Recipes)",Snoop Dogg,4.8,40073,Hardcover,12,192,2018,Cookbooks & Food,2025
+#66,The Beginner's Bible: Timeless Children's Stories,The Beginner's Bible,4.9,27964,Hardcover,10.93,512,2016,Bible Study & Reference,2025
+#67,Nobody's Girl: A Memoir of Surviving Abuse and Fighting for Justice,Virginia Roberts Giuffre,4.7,17892,Hardcover,16.45,400,2025,Biographies & Memoirs,2025
+#68,The Lost Bookshop,Evie Woods,4.4,158268,Paperback,4.99,448,2023,Fiction & Action & Adventure,2025
+#69,Spooky Cutie: Coloring Book for Adults and Teens Featuring Adorable Creepy Creatures in Cozy Hygge Moments for Relaxation (Cozy Spaces Coloring),Coco Wyo,4.8,6443,Paperback,9.99,88,2024,Arts & Music & Photography,2025
+#70,The Crash,Freida McFadden,4.2,162653,Paperback,4.99,384,2025,Mystery & Thriller & Suspense,2025
+#71,Dog Man: Big Jim Begins: A Graphic Novel (Dog Man #13): From the Creator of Captain Underpants,Dav Pilkey,4.8,7549,Hardcover,5.64,224,2024,Comics & Graphic Novels,2025
+#72,What to Expect When You're Expecting,Heidi Murkoff,4.8,30260,Paperback,9.43,656,2016,Health & Fitness & Dieting,2025
+#73,Onyx Storm,Rebecca Yarros,4.6,283125,Hardcover,20.5,544,2025,Fiction & Action & Adventure,2025
+#74,"The New Menopause: Navigating Your Path Through Hormonal Change with Purpose, Power, and Facts",Mary Claire Haver MD,4.7,4255,Hardcover,19.58,320,2024,Health & Fitness & Dieting,2025
+#75,Man's Search for Meaning,Viktor E. Frankl,4.7,96578,Paperback,12.86,184,2006,History,2025
+#76,Fourth Wing,Rebecca Yarros,4.8,472618,Paperback,13.62,544,2024,Fiction & Action & Adventure,2025
+#77,The Wonderful Things You Will Be,Emily Winfield Martin,4.9,32274,Hardcover,9.45,36,2015,Reading & Writing,2025
+#78,1929: Inside the Greatest Crash in Wall Street History--and How It Shattered a Nation,Andrew Ross Sorkin,4.6,6031,Hardcover,9.59,592,2025,Business & Money,2025
+#79,Brimstone,Callie Hart,4.4,46437,Hardcover,18.12,672,2025,Fiction & Action & Adventure,2025
+#80,A Navy SEAL's Bug-In Guide: How to Turn Your House into the Safest Place on Earth,Joel Lambert,4.7,3577,Paperback,37,240,2024,Engineering,2025
+#81,Goodnight Moon,"Margaret Wise Brown, Clement Hurd",4.9,351108,Board book,5.83,30,1991,Reading & Writing,2025
+#82,Verity,Colleen Hoover,4.6,443390,Paperback,12.09,336,2021,Fiction & Action & Adventure,2025
+#83,Happy Birthday to You!,Dr. Seuss,4.8,17396,Hardcover,9.49,64,1959,Reading & Writing,2025
+#84,Why a Daughter Needs a Dad,"Gregory E. Lang, Susanna Leonard Hill, Sydney Hanson",4.9,19727,Hardcover,5.72,32,2019,Reading & Writing,2025
+#85,A Court of Thorns and Roses Paperback Box Set (5 books),Sarah J. Maas,4.8,52380,Paperback,47.9,2896,2022,Fiction & Action & Adventure,2025
+#86,My Friends,Fredrik Backman,4.6,50581,Hardcover,12.97,448,2025,Fiction & Action & Adventure,2025
+#87,The God of the Woods,Liz Moore,4.4,109729,Hardcover,15.35,496,2024,Fiction & Action & Adventure,2025
+#88,The Alchemist,Paulo Coelho,4.6,122904,Paperback,5.88,208,2014,Bible Study & Reference,2025
+#89,Lots of Knock-Knock Jokes for Kids,Whee Winn,4.6,12949,Paperback,3.99,128,2016,Reading & Writing,2025
+#90,"See You Later, Alligator","Sally Hopgood,  Emma Levey ",4.8,3576,Hardcover,8.91,32,2016,Reading & Writing,2025
+#91,"Magic Tree House Boxed Set, Books 1-4","Mary Pope Osborne, Sal Murdocca",4.8,23786,Paperback,14.98,80,2001,Reading & Writing,2025
+#92,A People's History of the United States,Howard Zinn,4.7,16848,Paperback,17.98,784,2015,History,2025
+#93,Bob Books,"Bobby Lynn Maslen, Amy Jindra, Karen Wall",4.8,22304,Hardcover,14.13,144,2006,Reading & Writing,2025
+#94,Where's Bluey?: A Search-and-Find Book,Penguin Young Readers Licenses,4.8,9116,Paperback,2.7,32,2022,Arts & Music & Photography,2025
+#95,Fuzzy Hygge: Cute and Cozy Coloring Book,Vivi Tinta,4.8,5807,Paperback,9.63,88,2024,Arts & Music & Photography,2025
+#96,Alchemised,SenLinYu,4.7,22093,Hardcover,9.64,1040,2025,Fiction & Action & Adventure,2025
+#97,"The Next Conversation: Argue Less, Talk More",Jefferson Fisher,4.9,3433,Hardcover,9.65,304,2025,Business & Money,2025
+#98,A Beautiful Year in the Bible:,Alabaster Co. ,4.7,3098,Paperback,26.88,224,2024,Bible Study & Reference,2025
